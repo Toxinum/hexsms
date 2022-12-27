@@ -12,7 +12,7 @@ bash sms.sh
 ````
 #### Demo 
 
-![Demo](.assets/demo.png?raw=true "Demo")
+![Demo](https://raw.githubusercontent.com/ITSN0B1T4/hexsms/main/.assets/demo.png "Demo")
 
 
 ##### Press ctrl + c for stop bombing.
