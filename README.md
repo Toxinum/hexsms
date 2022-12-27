@@ -7,6 +7,7 @@ Simple sms bomber using bash!
 pkg update && upgrade -y
 pkg install git -y
 git clone https://github.com/ITSN0B1T4/hexsms
+cd hexsms
 bash sms.sh
 ````
 #### Demo 
